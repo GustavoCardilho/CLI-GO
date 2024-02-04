@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	var rootCmd = &cobra.Command{Use: "app"}
+	var rootCmd = &cobra.Command{Use: "gustavo-cli-teste"}
 
 	var nome, email, senha string
 
